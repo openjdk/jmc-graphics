@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1366" height="1366" viewBox="0, 0, 1366, 1366">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="790.266" y1="172.912" x2="1123.09" y2="505.737">
+      <stop offset="0" stop-color="#FFFF00"/>
+      <stop offset="1" stop-color="#FF0000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="125.93" y1="738.218" x2="395.614" y2="1007.902">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#0080FF"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="916.225" y1="963.899" x2="1188.584" y2="1236.258">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#0080FF"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <g>
+      <path d="M788.221,751.012 C724.154,833.602 606.17,888.988 471.223,888.988" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+      <path d="M826.637,764.755 L824.87,648.57 L749.806,737.268 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="64" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M382.096,488.951 C446.164,406.361 564.148,350.975 699.094,350.975" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+      <path d="M343.68,475.208 L345.447,591.393 L420.511,502.694 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="64" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M1049.756,1114.835 L1010.48,784.605" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+      <path d="M1050.994,779.787 L997.63,676.567 L969.966,789.424 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="64" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M956.678,574.667 C826.702,574.667 721.336,469.3 721.336,339.324 C721.336,209.349 826.702,103.982 956.678,103.982 C1086.654,103.982 1192.02,209.349 1192.02,339.324 C1192.02,469.3 1086.654,574.667 956.678,574.667 z" fill="url(#Gradient_1)"/>
+      <path d="M956.678,574.667 C826.702,574.667 721.336,469.3 721.336,339.324 C721.336,209.349 826.702,103.982 956.678,103.982 C1086.654,103.982 1192.02,209.349 1192.02,339.324 C1192.02,469.3 1086.654,574.667 956.678,574.667 z" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+    </g>
+    <g>
+      <path d="M260.772,1063.755 C155.454,1063.755 70.077,978.378 70.077,873.06 C70.077,767.742 155.454,682.365 260.772,682.365 C366.09,682.365 451.467,767.742 451.467,873.06 C451.467,978.378 366.09,1063.755 260.772,1063.755 z" fill="url(#Gradient_2)"/>
+      <path d="M260.772,1063.755 C155.454,1063.755 70.077,978.378 70.077,873.06 C70.077,767.742 155.454,682.365 260.772,682.365 C366.09,682.365 451.467,767.742 451.467,873.06 C451.467,978.378 366.09,1063.755 260.772,1063.755 z" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+    </g>
+    <g>
+      <path d="M737.228,822.224 z" fill="#FFFFFF"/>
+      <path d="M737.228,822.224 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    </g>
+    <g>
+      <path d="M1052.405,1292.666 C946.041,1292.666 859.817,1206.441 859.817,1100.078 C859.817,993.716 946.041,907.491 1052.405,907.491 C1158.767,907.491 1244.991,993.716 1244.991,1100.078 C1244.991,1206.441 1158.767,1292.666 1052.405,1292.666 z" fill="url(#Gradient_3)"/>
+      <path d="M1052.405,1292.666 C946.041,1292.666 859.817,1206.441 859.817,1100.078 C859.817,993.716 946.041,907.491 1052.405,907.491 C1158.767,907.491 1244.991,993.716 1244.991,1100.078 C1244.991,1206.441 1158.767,1292.666 1052.405,1292.666 z" fill-opacity="0" stroke="#000000" stroke-width="64"/>
+    </g>
+  </g>
+</svg>
