@@ -1,0 +1,6 @@
+# Ignore perforce ignore files
+.p4ignore
+
+# Ignore MacOS X finder files
+.DS_Store
+
